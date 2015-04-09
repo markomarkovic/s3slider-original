@@ -106,4 +106,4 @@ This plugin has been tested and is known to work in the following browsers:
  * Google Chrome (Win)
 
 ---
-Boban Karišik, sometime in 2010.
+Boban Karišik, sometime in 2008.
