@@ -1,3 +1,5 @@
+# s3Slider, slick jQuery slideshow plugin
+
 ## About
 The s3Slider jQuery plugin is made by example of [jd's smooth slide show script](http://smoothslideshow.jondesign.net/timed.html). I needed something like that for jQuery (for my web site [kruskica.net](http://www.kruskica.net)). Since i didn't find it after a small research i decided to build it by my self.
 
