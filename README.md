@@ -105,9 +105,5 @@ This plugin has been tested and is known to work in the following browsers:
  * Internet Explorer 7 (Win)
  * Google Chrome (Win)
 
-## Setup
-After the explanation of how to use, you are still having troubles to set s3slider up, I will gladly do it for you for a fee of $50 USD. You can contact me over the email or [skype](skype:karisik.boban?chat) which can be found on my [website](http://www.serie3.info/).
-*NOTE*: Script setup fee does not include any kind of script modification.
-
 ---
 Boban Karišik, sometime in 2010.
